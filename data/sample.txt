@@ -1,0 +1,3 @@
+AWS Bedrock is a cloud service.
+LangChain helps build AI applications.
+RAG improves LLM responses using external data.
